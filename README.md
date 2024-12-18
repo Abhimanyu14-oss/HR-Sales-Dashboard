@@ -46,7 +46,7 @@ Embed a link or image of your Power BI dashboard here for maximum impact!
 
 
 Here I Have shared the screenshot of my Dashboard
+![Screenshot (67)](https://github.com/user-attachments/assets/49b07585-2a53-4a0d-bd34-951b876dd4a0)
 
 
-![Uploading Screenshot (67).png…]()
 
